@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  RSRootViewController.h
 //  FilterApp
 //
 //  Created by Rock Suger on 2017/6/5.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface RSRootViewController : UIViewController
 
 @end
-
